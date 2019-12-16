@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-08T00:18:46+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-16T14:05:34+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/shubinadasha/Desktop/КИЛИ/женя.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./женя.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:29610432-fafe-4768-a55d-613331ece8bc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1047</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1206</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6"/>
@@ -6299,6 +6299,275 @@
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1047" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
                 <ANNOTATION_VALUE>неприятно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="wavybbybaw" LINGUISTIC_TYPE_REF="phonetic_transcription" PARENT_REF="@es1994m-text" PARTICIPANT="@es1994m" TIER_ID="@es1994m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1154" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>#смех# / ну / тут пробле́ма така́я что / сло́жно не влюби́ться в меня́ е́сли / #смех# / ты пообща́лся со мной / поэ́тому / #смех# / бесчи́сленное мно́жество серде́ц коне́чно же / #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1155" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ну наве́рно да / что́ тут де.. / #смех# / что́ тут сде́лаешь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1156" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>#смех# / ээ / потому́ что я / э / челове́к ми́ра / получи́лось-то / я удму́рт свобо́дный #смех# / блин у́жас</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1157" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>блин сло́жно сказа́ть / выступа́ть так же как и всегд… как и везде́ наве́рно / в Таджикиста́не / э́тот / си́льная цензу́ра интере́сно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1158" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>oo / oo / э́то с разго́нов пришли́ лю́ди</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1159" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>да да я си́льно луна́ч… луна́тил / нет / нуу / ниче́ / н… пока́ я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1160" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ну / смотри́ в разг..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1161" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>да́ я там я та́м да / ну / хож… ходи́л коро́че / хожу́ хожу́ / и мо́жет э́то опа́сно коро́че быть / ээ / но нет / н… пока́ ви́димо физи́ческого вреда́ себе́ не на… не нанесу́ како́го-то кому́-то / я пока́ ничё не де́лаю / #смех# / блин / о / вот я в разго́… нет / ла́дно э́то ост… / #смех# / что у меня́ был м… / у меня́ был моме́нт / когда́ мы с де́вушкой жи́ли и я просну́лся / и у меня́ / бы́ло / ощуще́ние что со мной ря́дом како́й-то дья́вол спит / #смех# / секу́нду / я тако́й ой нет всё мне показ… причу́дилось #смех# но опа́с.. опа́сно как бу́дто бы́ло на секу́нду</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1162" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>смех# не зна́ю / к… крест в него́ воткну́ #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1163" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>да я про́сто крест под / э / под поду́шкой всегда́ / блин я вспо́мнил ещё что / как меня́ лечи́ли от стра́шных снов / #смех# / ну / точне́е / ти́па / мне роди́тели говори́ли чтоб стра́шные ни.. / сны не сни́лись клади́ себе́ нож под поду́шку / я ду́маю э́то сейча́с / э́то что за</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1164" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ну / что́ за да / стра́нный приём / меня́ причём немно́го пуга́л э́тот нож на са́мом-то де́ле</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1165" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>#смех# да скоре́е э́то для само… / не для стра́шных снов / э́то от стра́шной реа́льности скоре́е</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1166" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>oo / нифига́ себе́ / #смех# / да поня́тно почему́ у неё / у неё / а у неё под поду́шкой пистоле́т как раз был та́к что #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1167" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>э / в ви́нздоре вот как раз / да / пе́редо мной выступа… пе́редо мной мало́й выступа́л / и во вре́мя него́ Мара́т закуси́лся со зри́телем каки́м-то и они́ вы́шли / пи́здиться</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1168" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ну и вот я вы́шел ещё и́з-за э́того [нрзб] но я как то тако́й тип oo пе́рвое выступле́ние и я ти́па ма́ло сыкова́л / коро́че там мно́го наве́рно смея́лись и́з-за того́ что я о́чень неувере́нно вы́глядел / но э́то мне дало́ тако́й толчо́к что / вро́де / я / смешно́й / чува́к / коро́че / позити́вно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1169" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>да / да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1170" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>о прия́тно э́то воз… ви́димо ещё не разби́тое се́рдце #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1171" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>аккура́тнее де́вочка #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1172" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>напряжённых отноше́ний нет я про́сто в це́лом / э / так / как бу́дто / не осо́бо социа́льный чува́к / и и́менно как со все́ми людьми́ у меня́ быва́ет что про́сто тяжело́ / а / обща́ться / э / но каки́х то</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1173" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>я не зна́ю / я вообще́ не.. не пойму́</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1174" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>oo / [нрзб]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1175" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>как у бурати́но</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1176" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>да / да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1177" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>о / у тебя́ же была́ / кака́я-то фо́тка есть где ты / где у тебя́ дово́льно дли́нные как бу́дто во́лосы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1178" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>ну ты как э́мо вы́глядел тогда́</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1179" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>ну Во́ве кста́ти мо́жно доверя́ть он но́мер два по разбива́нию серде́ц в стенд ап клу́бе #смех#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="wavybbyvaw" LINGUISTIC_TYPE_REF="phonetic_transcription" PARENT_REF="@vb1988m-text" PARTICIPANT="@vb1988m" TIER_ID="@vb1988m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1180" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ээ / так вернёмся к вопро́су / эм / Женёк / разбива́л ли ты кому́-то се́рдце</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1181" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>ну реа́льно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1182" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>почему́ ты разби́л се́рдце / возмо́жно э́то она́ пи́шет она́ не зна́ет почему́ ты ей разби́л се́рдце / почему́ ты ушёл / Женёк</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1183" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>#смех# свобо́дный удму́рт / э [нрзб] ка́псом напи́сано / занима́юсь стенд а́пом в Таджикиста́не / чуваки́ / да́йте сове́тов / Женёк</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1184" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>дашь сове́т</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1185" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ээ / Женёк / н… на́чал ли ты де́лать что́-то с лунати́змом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1186" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ааа / ты про лунати́зм чё-то там #одновременно#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1187" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ты реа́льно луна́тишь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1188" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>да я по́нял чтоб там не повторя́ться</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1189" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>а что бы ты сде́лал дья́волу</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1190" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>#смех# / ну да лунати́зм не о́чень / так / аккура́тней</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1191" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>что / не конфе́тку / каки́е у вас суро́вые удму́ртские тради́ции</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1192" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>блин ну / мм / девяно́стые наве́рно в це́лом / у ка́ждого под поду́шкой до́лжен был быть нож у ка́ждого чле́на семьи́ на вся́кий слу́чай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1193" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>да э́то.. э́то что́бы е́сли что она́ така́я ой / ой ой ой / я щас подожди́ / заберу́ своего́ ребе́ночка / [нрзб] #смех# понима́ешь / я ду́маю э́то на э́тот слу́чай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1194" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>под попо́й бензопила́ [нрзб] ей бы́ло неудо́бно спать / ээ / как прошло́ твоё са́мое пе́рвое выступле́ние и где</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1195" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>а в Москве́ э́то уже́</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1196" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>oo / я по́мню э́тот / э́то вре́мя #смех# / Мара́т ча́сто выходи́л пи́здиться со все́ми</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1197" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>пе́рвое выступле́ние бы́ло норма́льным</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1198" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>ээ / с.. не́ту ли напряже́ния с други́ми ко́миками в отноше́ниях / э́то вопро́с / и в ско́бках обожа́ю тебя́ сла́дкий</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1199" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>аккура́тнее / береги́ серде́чко</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1200" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>ну коро́че есть ли у тебя́ с каки́ми-то ко́миками напряжённые отноше́ния и ты тако́й</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1201" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>эээ / э́то твоя́ оконча́тельная причёска и́ли ты да́льше бу́дешь отра́щивать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1202" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>на са́мом де́ле / чува́к / норм</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1203" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>я вот / я вот всё вре́мя психу́ю на моме́нте / вот э́того / я всё вре́мя про́сто хоте́л отрасти́ть каки́е-нибудь па́тлы / не стрич… / ненави́жу стри́чься / и я психу́ю на моме́нте когда́ у меня́ чёлка начина́ет вот так как у бурати́но завива́ться / у меня́ здесь мо́жно ката́ться на ске́йтборде / в како́й-то моме́нт я тако́й как / [нрзб] / ты зна́ешь как / опи́лка кака́я-то стано́вится деби́льная / вот а у тебя́ э́та ста́дия прохо́дит норма́льно / мне ка́жется э́тот вот моме́нт / у́ши / коро́че пока́ вот ты с откры́тыми уша́ми / ты вы́глядишь норма́льно / и пока́ ты / с по́лностью закры́тыми уша́ми ты то́же начина́ешь вы́глядеть норма́льно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1204" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>вот я никогда́ / да́льше / я говорю́ / вот э́то трампли́на не отра́щивал</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1205" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>ну ээ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1206" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>[нрзб] ээ / неприя́тно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
